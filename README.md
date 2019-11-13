@@ -1,5 +1,4 @@
-![](MSwin.gif)
-![](MSlose.gif)
+![](dijangoTodo.gif)
 
 
 ## About
