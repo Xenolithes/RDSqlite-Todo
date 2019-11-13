@@ -1,4 +1,4 @@
-![](dijangoTodo.gif)
+![](djangoTodo.gif)
 
 
 ## About
