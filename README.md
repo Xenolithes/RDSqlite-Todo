@@ -22,9 +22,9 @@ This is a basic todo application that had a deadline of two days to get a minimu
   </tr>
   <tr rowspan="2">
     <td class="subheading">Backend</td>
-    <td><img src="https://lh5.googleusercontent.com/rdAoVdYKOCnmtev6t7DJrEY7mG4iYsRPqeTH0Z-OrlsVmiea3q5SMtOGNSa7HzJcyxcIcelTacG5gPNgyBoIviiNcLbohQAicvpldcfM32Klb_ewouDRd67OtYhUAU1CEZB4rBqB" width="75" /></td> 
-    <td><img src="https://lh6.googleusercontent.com/tKlT8lGB2bTDqSilr_a2y8vaO-QBUdcUIYASnslf-RAKTxUEiEBq-_gTVBP0irIP1ZWNuSvp1fouOJrQBXUr0joVmBZzNyOec4jBpOyVogPZMOYhPH6YQwYOiLdZnfuaDnFel9rn" width="75" style="padding-left: 27px;"/></td>
-    <td></td>
+    <td><img src="https://seeklogo.com/images/D/django-logo-F46C1DD95E-seeklogo.com.png" width="75" /></td> 
+    <td><img src="https://www.django-rest-framework.org/img/logo.png" width="75" style="padding-left: 27px;"/></td>
+    <td><img src="https://seeklogo.com/images/S/sqlite-logo-5E9F462E6A-seeklogo.com.png" width="75" style="padding-left: 27px;"/></td>
     <td class="tech">(Node Express)</td>
   </tr>
   
